@@ -1,0 +1,6 @@
+{
+  "name": "Google Flow & Veo AI Video Prompt Studio",
+  "description": "Professional AI video prompt generator, curated cinematic prompt library, and camera motion director for Google Flow, Veo, and AI video generators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
